@@ -1,0 +1,41 @@
+
+.wrapper {
+}
+.header {
+}
+.container {
+}
+.main {
+    flex: 1 1 auto;
+}
+.footer {
+}
+
+h1 {
+    margin: 10px auto;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    display: block;
+    margin: 10px auto;
+    width: clamp( 1px, 80% ,500px);
+    padding: 10px;
+    background-color: #09fa0d;
+    color: white;
+    font-size: 25px;
+    
+}
+
+.div1 {
+    width: 200px;
+    height: 100px;
+    border: 1px solid red;
+}
+.div2 {
+    width: 50px;
+    height: 50px;
+    margin: 20px auto;
+    background-color: aqua;
+}
